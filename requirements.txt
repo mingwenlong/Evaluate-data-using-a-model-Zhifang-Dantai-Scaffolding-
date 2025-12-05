@@ -1,0 +1,8 @@
+transformers>=4.43.0
+accelerate>=0.34.0
+torch>=2.1.0
+safetensors>=0.4.3
+pandas>=2.2.2
+openpyxl>=3.1.2
+numpy>=1.26.4
+python-dateutil>=2.9.0
